@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+
+h1{
+    color: aqua;
+    -webkit-text-stroke: 1px black;
+    
+}
+.input-container{
+    margin-bottom: 5px;
+}
+input{
+    border: 2px black solid;
+    padding: 3px;
+}
+button{
+    background-color: aqua;
+    font-size: 26px;
+    border-radius: 5%;
+    margin-bottom: 5px;
+}
+
